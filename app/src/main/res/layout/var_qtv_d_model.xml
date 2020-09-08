@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:hint="@string/xi"
+        android:id="@+id/xi"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="4"
+        android:gravity="start"
+        android:inputType="phone"
+        tools:ignore="Autofill" />
+
+    <EditText
+        android:hint="@string/ni"
+        android:id="@+id/ni"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="4"
+        android:gravity="start"
+        android:inputType="phone"
+        tools:ignore="Autofill" />
+
+    <ImageButton
+        android:id="@+id/delete_entry"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:src="@mipmap/ic_remove_circle_outline_black_24dp"
+        tools:ignore="ContentDescription" />
+
+</LinearLayout>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/A">
+
+        <item
+            android:id="@+id/nav_documentation"
+            android:icon="@mipmap/ic_import_contacts_black_24dp"
+            android:title="@string/documentation_str" />
+
+    </group>
+
+    <group android:id="@+id/B">
+
+        <item
+            android:title="@string/var_qtv">
+            <menu>
+                <item
+                    android:id="@+id/nav_discretes"
+                    android:icon="@mipmap/ic_assessment_black_24dp"
+                    android:title="@string/var_d_str" />
+                <item
+                    android:id="@+id/nav_continues"
+                    android:icon="@mipmap/ic_show_chart_black_24dp"
+                    android:title="@string/var_c_str" />
+            </menu>
+        </item>
+
+    </group>
+
+    <group android:id="@+id/C">
+
+        <item
+            android:id="@+id/nav_qualitatives"
+            android:icon="@mipmap/ic_donut_small_black_24dp"
+            android:title="@string/var_qlt" />
+
+    </group>
+
+    <group android:id="@+id/D">
+
+        <item
+            android:id="@+id/nav_safeguards"
+            android:icon="@mipmap/ic_turned_in_black_24dp"
+            android:title="@string/safeguards" />
+        <item
+            android:id="@+id/nav_tutorial"
+            android:icon="@mipmap/ic_help_black_24dp"
+            android:title="@string/tutorial" />
+
+    </group>
+
+    <group android:id="@+id/E">
+
+        <item
+            android:id="@+id/nav_param"
+            android:icon="@mipmap/ic_settings_black_24dp"
+            android:title="@string/settings_str" />
+        <item
+            android:id="@+id/nav_evaluate"
+            android:icon="@mipmap/ic_favorite_border_black_24dp"
+            android:title="@string/evaluate_str" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@mipmap/ic_info_black_24dp"
+            android:title="@string/about_str" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@mipmap/ic_share_black_24dp"
+            android:title="@string/share_str" />
+
+    </group>
+
+</menu>

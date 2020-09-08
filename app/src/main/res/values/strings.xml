@@ -1,0 +1,171 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Statistique Descriptive</string>
+    <string name="title_activity_home" translatable="false">Home</string>
+
+    <string name="navigation_drawer_open">Ouvrir volet navigation</string>
+    <string name="navigation_drawer_close">Fermer volet navigation</string>
+    <string name="documentation_str">Documentation</string>
+    <string name="var_qtv">Variables Quantitatives</string>
+    <string name="var_qlt">Variables Qualitatives</string>
+    <string name="var_d_str">Variables Discretes</string>
+    <string name="var_c_str">Variables Continues</string>
+    <string name="var_n_str">Variables Nominales</string>
+    <string name="nb_decimal_str">Nombre de décimal</string>
+    <string name="succes_str">Modifié avec succès!</string>
+    <string name="graphic_rep">Représentation graphique</string>
+    <string name="syntax_error">Erreur de syntaxe!</string>
+    <string name="length_error">Longueur incompatible!</string>
+    <string name="empty_field_error">Veuillez remplir tous les champs!</string>
+    <string name="options_str">Autres Options</string>
+    <string name="about_str">A propos</string>
+    <string name="settings_str">Paramètres</string>
+    <string name="mail" translatable="false">neterustudio@gmail.com</string>
+    <string name="app_version">Version 1.3.3</string>
+    <string name="description">Cette application introduit à la statistique descriptive et facilite le traitement des données.</string>
+    <string name="general_settings">Paramètres généraux</string>
+    <string name="calculate_str">Calculer</string>
+    <string name="coef_str">Coefficient de variation</string>
+    <string name="ecart_str">Ecart-type &amp; Erreur Type</string>
+    <string name="variance_str">Variance</string>
+    <string name="cov_coef_str">Covariance &amp; Coefficient de corrélation</string>
+    <string name="mode_str">Mode</string>
+    <string name="mediane_str">Mediane</string>
+    <string name="moyenne_str">Moyennes</string>
+    <string name="all_select">Tout selectionner</string>
+    <string name="calc_var_d">Calculer une série statistique à variables quantitatives discrètes</string>
+    <string name="calc_var_c">Calculer une série statistique à variables quantitatives continues</string>
+    <string name="hint_xi_var_c" translatable="false"><![CDATA[Xi -> a-b c-d e-f …]]></string>
+    <string name="hint_ni_var_c" translatable="false"><![CDATA[Ni -> a b c …]]></string>
+    <string name="hint_xi_var_d" translatable="false"><![CDATA[Xi -> a b c d …]]></string>
+    <string name="hint_ni_var_d" translatable="false"><![CDATA[Ni -> a b c d …]]></string>
+    <string name="share_str">Partager</string>
+    <string name="share_app_title">Partager l\'application</string>
+    <string name="evaluate_str">Évaluez nous</string>
+    <string name="safeguards">Sauvegardes</string>
+    <string name="calc_var_n">Calculer une série statistique à variables qualitatives nominales ou ordinales</string>
+    <string name="copyright" translatable="false"><![CDATA[&copy; 2019 Neteru Studio]]></string>
+    <string name="no">Non</string>
+    <string name="yes">Oui</string>
+    <string name="deletion_msg">Supprimer l\'étude statistique</string>
+    <string name="deletion_title">Suppression</string>
+    <string name="v_bar_chart">Diagramme à barres verticales</string>
+    <string name="distrib_var_d">Distribution à variables discrètes</string>
+    <string name="refresh">Recharger</string>
+    <string name="save">Sauvegarder</string>
+    <string name="share">Partager</string>
+    <string name="general">Général</string>
+    <string name="nb_decimal_title">Nombre de décimal</string>
+    <string name="nb_decimal_summary">changer le nombre de chiffre après la virgule</string>
+    <string name="graphik_representation">Représentation graphique</string>
+    <string name="material" translatable="false">Material</string>
+    <string name="vordiplom" translatable="false">Vordiplom</string>
+    <string name="joyful" translatable="false">Joyful</string>
+    <string name="colorful" translatable="false">Colorful</string>
+    <string name="pastel" translatable="false">Pastel</string>
+    <string name="liberty" translatable="false">Liberty</string>
+    <string name="circle">Cercles</string>
+    <string name="bar">Barres</string>
+    <string name="lines">Lignes</string>
+    <string name="v_bar">Barres Verticales</string>
+    <string name="h_bar">Barres Horizontales</string>
+    <string name="bubbles">Bulles</string>
+    <string name="points">Nuage de Points</string>
+    <string name="lines_points">Lignes et Points</string>
+    <string name="var_qtv_d_title">Variables quantitatives discrètes</string>
+    <string name="var_qtv_d_summary">changer la représentation graphique des variables discrètes</string>
+    <string name="var_qtv_c_title">Variables quantitatives continues</string>
+    <string name="var_qtv_c_summary">changer la représentation graphique des variables continues</string>
+    <string name="var_qlt_title">Variables qualitatives</string>
+    <string name="var_qlt_summary">changer la représentation graphique des variables qualitatives</string>
+    <string name="theme_title">Thèmes</string>
+    <string name="theme_summary">choisir un thème pour les couleurs</string>
+    <string name="no_safeguard">Aucune sauvegarde trouvée!</string>
+    <string name="stats_table">TABLEAU STATISTIQUE</string>
+    <string name="add_entry">Ajouter une entrée</string>
+    <string name="xi" translatable="false">Xi</string>
+    <string name="ni" translatable="false">Ni</string>
+    <string name="xi_b" translatable="false">Xi: b[</string>
+    <string name="xi_a" translatable="false">Xi: [a</string>
+    <string name="effectif">Effectif</string>
+    <string name="modality">Modalité</string>
+    <string name="insufficient_data">Données Insuffisantes!</string>
+    <string name="save_stats">Sauvegarder l\'étude</string>
+    <string name="stats_name">Nom de l\'étude</string>
+    <string name="cancel">Annuler</string>
+    <string name="named_this_stats">Nommez votre étude statistique!</string>
+    <string name="safeguard_done">Sauvegarde Effectuée!</string>
+    <string name="lines_chart">Diagramme à lignes</string>
+    <string name="h_bar_chart">Diagramme à barres horizontales</string>
+    <string name="bubble_chart">Diagramme à bulles</string>
+    <string name="dispersion_chart">Diagramme de dispersion</string>
+    <string name="lines_points_chart">Diagramme à lignes et points</string>
+    <string name="distrib_var_c">Distribution à variables continues</string>
+    <string name="table_modalities"> Modalités </string>
+    <string name="table_effectifs"> Effectifs </string>
+    <string name="table_c_effectifs"> Effectifs Cumulés </string>
+    <string name="table_frequencies"> Frequences </string>
+    <string name="table_c_frequencies"> Fréquences Cumulées </string>
+    <string name="pie_chart">Diagramme Circulaire</string>
+    <string name="distrib_var_qlt_n">Distribution à variables qualitatives nominales</string>
+    <string name="distrib">Distribution</string>
+    <string name="table_xi" translatable="false"> Xi </string>
+    <string name="table_ni" translatable="false"> Ni </string>
+    <string name="table_xini" translatable="false"> XiNi </string>
+    <string name="table_xi2ni" translatable="false"> Xi²Ni </string>
+    <string name="table_up" translatable="false"> Ni+ </string>
+    <string name="table_down" translatable="false"> Ni- </string>
+    <string name="data">DONNEES</string>
+    <string name="distrib_hetero">Cette distribution est hétérogène</string>
+    <string name="distrib_homo">Cette distribution est homogène</string>
+    <string name="coef_de_var">COEFFICIENT DE VARIATION</string>
+    <string name="effectifs">Effectifs :\t</string>
+    <string name="frequencies">Frequences :\t</string>
+    <string name="modalities">Modalités :\t</string>
+    <string name="effectif_total">EFFECTIF TOTAL</string>
+    <string name="moyenne">MOYENNES</string>
+    <string name="mode">MODE</string>
+    <string name="qlt_mode">Le mode est la modalité dont l\'effectif est le plus grand</string>
+    <string name="qtv_d_mode">Le mode est égal à la variable ayant l\'effectif le plus élevé</string>
+    <string name="qtv_d_mediane">La médiane est égale à la variable ayant l\'effectif cumulé croissant directement supérieur à\t</string>
+    <string name="qtv_d_first_quart">Le premier quartile est égal à la variable ayant l\'effectif cumulé croissant directement supérieur à\t</string>
+    <string name="qtv_d_third_quart">Le troisième quartile est égal à la variable ayant l\'effectif cumulé croissant directement supérieur à\t</string>
+    <string name="qtv_d_first_decile">Le premier décile est égal à la variable ayant l\'effectif cumulé croissant directement supérieur à\t</string>
+    <string name="qtv_d_ninth_decile">Le neuvième décile est égal à la variable ayant l\'effectif cumulé croissant directement supérieur à\t</string>
+    <string name="ecart_type">ECART TYPE</string>
+    <string name="variance">VARIANCE</string>
+    <string name="mediane">MEDIANE</string>
+    <string name="mediant_class">Classe Mediante :\t[</string>
+    <string name="modal_class">Classe Modale :\t[</string>
+    <string name="lang">fr</string>
+    <string name="weighted_mean">- Moyenne arithmétique pondérée</string>
+    <string name="simple_mean">- Moyenne arithmétique simple</string>
+    <string name="range">ETENDUE</string>
+    <string name="quartiles_str">Quartiles &amp; Deciles</string>
+    <string name="quartiles">QUARTILES</string>
+    <string name="first_quart">Premier Quartile</string>
+    <string name="third_quart">Troisième Quartile</string>
+    <string name="inter_quart">Intervalle Interquartile</string>
+    <string name="covariance">COVARIANCE</string>
+    <string name="coef">COEFFICIENT DE CORRELATION</string>
+    <string name="deciles">DECILES</string>
+    <string name="first_decile">PREMIER DECILE</string>
+    <string name="ninth_decile">NEUVIEME DECILE</string>
+    <string name="standard_error">ERREUR TYPE</string>
+    <string name="qlt_tab_title_1" translatable="false">M</string>
+    <string name="qlt_tab_title_2">E</string>
+    <string name="qlt_tab_title_3">F(%)</string>
+    <string name="qlt_tab_title_4">EC</string>
+    <string name="qlt_tab_title_5">FC(%)</string>
+    <string name="next">suivant</string>
+    <string name="previous">précédent</string>
+    <string name="calculations" tools:ignore="Typos">Calculs</string>
+    <string name="neteru_studio" translatable="false">Neteru Studio</string>
+    <string name="tutorial">Tutoriel</string>
+    <string name="how_to_proceed">Comment procéder ?</string>
+    <string name="tuto_step_1">1. Insérez les données de l\'étude ligne par ligne</string>
+    <string name="tuto_step_2">2. Sélectionnez les critères statistiques à étudier</string>
+    <string name="tuto_step_3">3. Cliquez sur le bouton \'Calculer\'</string>
+    <string name="tuto_step_4">4. Sauvegardez votre étude pour y accéder ultérieurement</string>
+
+</resources>

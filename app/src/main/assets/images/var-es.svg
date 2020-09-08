@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="500px" height="269.491px" viewBox="0 0 500 269.491" enable-background="new 0 0 500 269.491" xml:space="preserve">
+<path fill="none" stroke="#4D4D4D" stroke-width="2" stroke-miterlimit="10" d="M289.071,228.232
+	c26.252-10.072,63.091-83.063,63.894-83.063c0,0,51.847,78.405,75.608,83.063"/>
+<path fill="none" stroke="#4D4D4D" stroke-width="2" stroke-miterlimit="10" d="M96.323,166.468c0,0,107.077-38.662,145.359-116.075
+	c0,0,62.648,59.906,106.869,63.895"/>
+<ellipse fill="#333333" cx="428.373" cy="228.746" rx="7.226" ry="7.203"/>
+<ellipse fill="#333333" cx="288.373" cy="228.746" rx="7.226" ry="7.203"/>
+<ellipse fill="#333333" cx="353.373" cy="144.746" rx="7.226" ry="7.203"/>
+<ellipse fill="#333333" cx="352.373" cy="113.746" rx="7.226" ry="7.203"/>
+<circle fill="#333333" cx="241.373" cy="50.746" r="7.203"/>
+<circle fill="#333333" cx="96.373" cy="165.746" r="7.203"/>
+<path fill="#F7931E" d="M397,37.408c0,7.058-5.721,12.779-12.778,12.779H98.778C91.721,50.187,86,44.465,86,37.408V26.965
+	c0-7.058,5.721-12.779,12.778-12.779h285.443c7.058,0,12.778,5.721,12.778,12.779V37.408z"/>
+<path fill="#009245" d="M186,184.408c0,7.058-5.721,12.778-12.779,12.778H18.779C11.721,197.187,6,191.466,6,184.408v-5.443
+	c0-7.058,5.721-12.778,12.779-12.778h154.442c7.058,0,12.779,5.721,12.779,12.778V184.408z"/>
+<path fill="#009245" d="M443,132.407c0,7.058-5.721,12.779-12.778,12.779H275.778c-7.058,0-12.778-5.722-12.778-12.779v-5.441
+	c0-7.058,5.721-12.779,12.778-12.779h154.443c7.058,0,12.778,5.722,12.778,12.779V132.407z"/>
+<path fill="#29ABE2" d="M353,243.46c0,8.616-4.425,15.727-11.153,15.727H237.359c-6.728,0-12.359-7.11-12.359-15.727v-0.16
+	c0-8.616,5.631-15.113,12.359-15.113h104.487c6.729,0,11.153,6.497,11.153,15.113V243.46z"/>
+<path fill="#29ABE2" d="M493,243.46c0,8.616-4.922,15.727-11.65,15.727H376.862c-6.729,0-12.862-7.11-12.862-15.727v-0.16
+	c0-8.616,6.134-15.113,12.862-15.113H481.35c6.729,0,11.65,6.497,11.65,15.113V243.46z"/>
+<text transform="matrix(1 0 0 1 175.3081 36.1528)" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="14.9087">  Variable estadística</text>
+<text transform="matrix(1 0 0 1 310.958 133.521)" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="14.9087">Cuantitativa</text>
+<text transform="matrix(1 0 0 1 241.373 248.0684)" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="14.9087">    V Continua </text>
+<text transform="matrix(1 0 0 1 390.4316 248.0684)" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="14.9087">  V Discreta </text>
+<text transform="matrix(1 0 0 1 58.3022 186.0596)" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="14.9087">Cualitativa</text>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M352.965,114.288"/>
+</svg>

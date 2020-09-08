@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- COLOR THEMES -->
+
+    <string-array name="graphik_theme_array">
+        <item>@string/material</item>
+        <item>@string/vordiplom</item>
+        <item>@string/joyful</item>
+        <item>@string/colorful</item>
+        <item>@string/pastel</item>
+        <item>@string/liberty</item>
+    </string-array>
+
+    <string-array name="graphik_theme_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <!-- GRAPHIK A -->
+
+    <string-array name="graphikA_array">
+        <item>@string/lines</item>
+        <item>@string/v_bar</item>
+        <item>@string/h_bar</item>
+        <item>@string/bubbles</item>
+        <item>@string/points</item>
+        <item>@string/lines_points</item>
+    </string-array>
+
+    <string-array name="graphikA_values">
+        <item>line</item>
+        <item>v_bar</item>
+        <item>h_bar</item>
+        <item>bubble</item>
+        <item>point</item>
+        <item>line_point</item>
+    </string-array>
+
+    <!-- GRAPHIK B -->
+
+    <string-array name="graphikB_array">
+        <item>@string/lines</item>
+        <item>@string/v_bar</item>
+        <item>@string/h_bar</item>
+        <item>@string/bubbles</item>
+        <item>@string/points</item>
+        <item>@string/lines_points</item>
+    </string-array>
+
+    <string-array name="graphikB_values">
+        <item>line</item>
+        <item>v_bar</item>
+        <item>h_bar</item>
+        <item>bubble</item>
+        <item>point</item>
+        <item>line_point</item>
+    </string-array>
+
+    <!-- GRAPHIK C -->
+
+    <string-array name="graphikC_array">
+        <item>@string/circle</item>
+        <item>@string/bar</item>
+    </string-array>
+
+    <string-array name="graphikC_values">
+        <item>cercle</item>
+        <item>bar</item>
+    </string-array>
+
+    <!-- GRAPHIK DEFAULT -->
+
+    <string-array name="graphikA_default">
+        <item>line</item>
+        <item>v_bar</item>
+        <item>bubble</item>
+        <item>point</item>
+    </string-array>
+
+    <string-array name="graphikB_default">
+        <item>line</item>
+        <item>v_bar</item>
+        <item>point</item>
+    </string-array>
+
+    <string-array name="graphikC_default">
+        <item>cercle</item>
+        <item>bar</item>
+    </string-array>
+
+</resources>

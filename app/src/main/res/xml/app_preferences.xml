@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.preference.PreferenceCategory
+        android:title="@string/general">
+
+        <EditTextPreference
+            android:title="@string/nb_decimal_title"
+            android:key="nb"
+            android:inputType="number"
+            android:defaultValue="3"
+            android:hint="@string/nb_decimal_title"
+            android:summary="@string/nb_decimal_summary"/>
+
+    </androidx.preference.PreferenceCategory>
+
+    <androidx.preference.PreferenceCategory
+        android:title="@string/graphik_representation">
+
+        <MultiSelectListPreference
+            android:title="@string/var_qtv_d_title"
+            android:summary="@string/var_qtv_d_summary"
+            android:key="graphikA"
+            android:defaultValue="@array/graphikA_default"
+            android:entries="@array/graphikA_array"
+            android:entryValues="@array/graphikA_values"/>
+
+        <MultiSelectListPreference
+            android:title="@string/var_qtv_c_title"
+            android:summary="@string/var_qtv_c_summary"
+            android:key="graphikB"
+            android:defaultValue="@array/graphikB_default"
+            android:entries="@array/graphikB_array"
+            android:entryValues="@array/graphikB_values"/>
+
+        <MultiSelectListPreference
+            android:title="@string/var_qlt_title"
+            android:summary="@string/var_qlt_summary"
+            android:key="graphikC"
+            android:defaultValue="@array/graphikC_default"
+            android:entries="@array/graphikC_array"
+            android:entryValues="@array/graphikC_values"/>
+
+        <ListPreference
+            android:title="@string/theme_title"
+            android:summary="@string/theme_summary"
+            android:key="graphikTheme"
+            android:defaultValue="0"
+            android:entries="@array/graphik_theme_array"
+            android:entryValues="@array/graphik_theme_values"/>
+
+    </androidx.preference.PreferenceCategory>
+
+</androidx.preference.PreferenceScreen>
